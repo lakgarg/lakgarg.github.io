@@ -1,5 +1,9 @@
 [
     {
+        "name": "Beneath",
+        "url": "www.beneath.cf"
+    }    
+    {
         "romName": "Pixel Experience [Normal]",
         "path": "pixel-normal",
         "deviceData": [
@@ -56,9 +60,5 @@
                 ]
             }
         ]
-    },
-    {
-        "name": "Beneath",
-        "url": "www.beneath.cf"
-    }   
+    }    
 ]
