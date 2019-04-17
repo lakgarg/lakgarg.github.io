@@ -1,61 +1,30 @@
 [   
     {
-        "romName": "Pixel Experience [Normal]",
+        "romName": "Pixel Experience",
         "path": "pixel-normal",
         "deviceData": [
             {
-                "name": "rosy",
+                "name": "bullhead",
                 "builds": [
                     {
-                        "name": "PixelExperience_rosy-9.0-20190313-1657-OFFICIAL.zip",
-                        "url": "http://bit.ly/PixelExperience_rosy-9-20190313-1657-OFFICIAL"
-                    },
-                    {
-                        "name": "PixelExperience_rosy-9.0-20190211-0639-OFFICIAL.zip",
-                        "url": "http://bit.ly/PixelExperience_rosy-9-20190211-0639-OFFICIAL"
-                    },
-                    {
-                        "name": "Beneath",
-                        "url": "www.beneath.cf"
-                    }
-                ]
-            },
-            {
-                "name": "sakura",
-                "builds": [
-                    {
-                        "name": "PixelExperience_sakura-9.0-20190320-0821-OFFICIAL.zip",
-                        "url": "http://bit.ly/2G5lZC4"
+                        "name": "PixelExperience_bullhead-9.0-20190411-0801-OFFICIAL.zip",
+                        "url": "https://download.pixelexperience.org/changelog/bullhead/PixelExperience_bullhead-9.0-20190411-0801-OFFICIAL.zip"
                     }
                 ]
             }
+      
         ]
     },
     {
-        "romName": "Pixel Experience [CAF Edition]",
-        "path": "pixel-caf",
+        "romName": "AOSP Extended",
+        "path": "aospex-normal",
         "deviceData": [
             {
-                "name": "rosy",
+                "name": "bullhead",
                 "builds": [
                     {
-                        "name": "PixelExperience_rosy-9.0-20190222-0633-CAF-OFFICIAL.zip",
-                        "url": "http://bit.ly/2VxpjLC"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "romName": "Nano Kernel [AOSP/LOS]",
-        "path": "nano-beta",
-        "deviceData": [
-            {
-                "name": "rosy",
-                "builds": [
-                    {
-                        "name": "Nano_Kernel-rosy-20193616-2903-BETA-v3.1.zip",
-                        "url": "http://bit.ly/2WX8yd3"
+                        "name": "AospExtended-v6.4-bullhead-20190412-0413-OFFICIAL.zip",
+                        "url": "https://downloads.aospextended.com/download/bullhead/pie/AospExtended-v6.4-bullhead-20190412-0413-OFFICIAL.zip"
                     }
                 ]
             }
